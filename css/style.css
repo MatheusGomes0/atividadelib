@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center ;
+    flex-direction: column;
+    background-color: antiquewhite;
+}
+
+p{
+    font-weight: bolder;
+}
+
+button{
+    display: flex;
+    align-items:center ;
+    align-content: center;
+    padding: 10px;
+}
+
+img{
+    padding: 10%;
+    height: 200px;
+}
